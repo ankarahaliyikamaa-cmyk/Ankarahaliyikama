@@ -1,33 +1,3 @@
-[16:04, 05.02.2026] +90 539 923 43 74: <html lang="tr">
-<head>
-  <meta charset="UTF-8">
-  <title>Ankara Halı & Koltuk Yıkama | Çankaya - Etimesgut</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Ankara halı ve koltuk yıkama hizmeti. Çankaya, İncek, Bağlıca, Etimesgut, Çayyolu, Ümitköy. Aynı gün servis.">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background: #f7f7f7;
-      color: #333;
-    }
-    header {
-      background: #0a7cff;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    .container {
-      padding: 20px;
-      max-width: 900px;
-      margin: auto;
-    }
-    .buttons {
-      display: flex;
-      gap: 15px;
-      flex-wrap: wrap;
-      justif…
-[16:57, 05.02.2026] +90 539 923 43 74: <!DOCTYPE html>
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
